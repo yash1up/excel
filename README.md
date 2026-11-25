@@ -1,5 +1,5 @@
-# Swiggy Data Analysis Project-
-Project Overview
+# Swiggy Data Analysis Project
+Project Overview:
 This project focuses on analysing Swiggy restaurant and food-order data
 using Microsoft Excel. The objective is to explore restaurant
 performance, food pricing, customer ratings, order patterns and revenue
